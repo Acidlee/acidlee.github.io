@@ -2,22 +2,3 @@
   height: 100px;
   width: 100px;
 }
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8" />
-<head>
-<title>Banano</title>
-<link rel="stylesheet" type="text/css" href="index.css">
-</head>
-<body onload="onLoad();">
-  <div id="banano"></div>
-  <ol>
-    <li><img class="small_image" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.0-9/38053478_2347079428643531_7341752714222632960_n.jpg?_nc_cat=0&oh=45e61a22bb34c546539" /></li>
-  </ol>
-  <script>
-      function onLoad () {
-        document.getElementById('banano').innerHTML = 'Lee banaos';
-      }
-    </script>
-</body>
-</html>
