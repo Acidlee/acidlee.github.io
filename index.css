@@ -12,7 +12,7 @@
 <body onload="onLoad();">
   <div id="banano"></div>
   <ol>
-    <li><img class="small_image" src="https://cdn.discordapp.com/attachments/416341951416369153/473849966620704768/banano_standt.PNG" /></li>
+    <li><img class="small_image" src="https://cdn.discordapp.com/attachments/416341951416369153/473849966620704768/banano_standt.jpg" /></li>
   </ol>
   <script>
       function onLoad () {
